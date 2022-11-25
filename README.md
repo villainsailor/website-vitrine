@@ -1,2 +1,0 @@
-# website-vitrine
-website vitrine
